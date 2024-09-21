@@ -1,2 +1,3 @@
 # Rat
-A script language - 一个脚本语言，由C开发。
+A script language - 一个脚本语言，由C语言开发。
+我们致力于开发出语法最有效且最优美的脚本语言，并且欢迎各位开发者来贡献代码。
