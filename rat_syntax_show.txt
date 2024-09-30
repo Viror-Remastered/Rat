@@ -1,0 +1,7 @@
+import System
+
+function greeting(){
+  print("Hello World!")
+}
+
+greeting()
