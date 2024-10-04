@@ -1,7 +1,25 @@
+package com::examples
 import System
 
 function greeting(){
-  print("Hello World!")
+  println("Hello World!")
 }
 
 greeting()
+
+class Demo {
+  function init(a,b){
+    this.a = a
+    this.b = b
+  }
+
+  function change(n,m){
+    this.a = n
+    this.b = m
+    return nil
+  }
+
+}
+
+Demo demo = Demo(1,2)
+
